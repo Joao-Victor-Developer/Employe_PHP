@@ -1,0 +1,6 @@
+body { font-family: Arial, sans-serif; max-width: 900px; margin: 20px auto; }
+table { width: 100%; border-collapse: collapse; }
+th, td { padding: 8px; text-align: left; }
+th { background: #eee; }
+a { text-decoration: none; color: blue; }
+button { padding: 8px 12px; }
